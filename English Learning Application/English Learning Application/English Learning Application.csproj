@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1B7214C9-8B5F-4FB1-B2F6-00986D18D355}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>English_Learning_Application</RootNamespace>
+    <AssemblyName>English Learning Application</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Boundary\FormBank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\FormBank.Designer.cs">
+      <DependentUpon>FormBank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\FormChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\FormChangePassword.Designer.cs">
+      <DependentUpon>FormChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\FormMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\FormMaster.Designer.cs">
+      <DependentUpon>FormMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\FormQuis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\FormQuis.Designer.cs">
+      <DependentUpon>FormQuis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\FormReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\FormReport.Designer.cs">
+      <DependentUpon>FormReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\FormUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\FormUser.Designer.cs">
+      <DependentUpon>FormUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\FormRun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\FormRun.Designer.cs">
+      <DependentUpon>FormRun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\UCAddQuestion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Boundary\UCAddQuestion.Designer.cs">
+      <DependentUpon>UCAddQuestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\UC_Set_Students.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Boundary\UC_Set_Students.Designer.cs">
+      <DependentUpon>UC_Set_Students.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controller\LoginControl.cs" />
+    <Compile Include="Controller\QuestionBankControl.cs" />
+    <Compile Include="Controller\ReportControl.cs" />
+    <Compile Include="Controller\RunControl.cs" />
+    <Compile Include="Controller\ScoreControl.cs" />
+    <Compile Include="Controller\UserController.cs" />
+    <Compile Include="ELAds.cs">
+      <DependentUpon>ELAds.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ELAds.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ELAds.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\QuestionBank.cs" />
+    <Compile Include="Entity\Questions.cs" />
+    <Compile Include="Entity\Score.cs" />
+    <Compile Include="Entity\User.cs" />
+    <Compile Include="KeyGenerator.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShowException.cs" />
+    <EmbeddedResource Include="Boundary\FormBank.resx">
+      <DependentUpon>FormBank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\FormChangePassword.resx">
+      <DependentUpon>FormChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\FormMaster.resx">
+      <DependentUpon>FormMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\FormQuis.resx">
+      <DependentUpon>FormQuis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\FormReport.resx">
+      <DependentUpon>FormReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\FormUser.resx">
+      <DependentUpon>FormUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\FormRun.resx">
+      <DependentUpon>FormRun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\UCAddQuestion.resx">
+      <DependentUpon>UCAddQuestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\UC_Set_Students.resx">
+      <DependentUpon>UC_Set_Students.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="ELAds.xsc">
+      <DependentUpon>ELAds.xsd</DependentUpon>
+    </None>
+    <None Include="ELAds.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ELAds.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ELAds.xss">
+      <DependentUpon>ELAds.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

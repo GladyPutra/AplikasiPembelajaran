@@ -1,0 +1,23 @@
+tahap - tahap installnya nick :
+====================
+
+1. Instal DTLiteINstaller dlu
+2. buka folder "Ini dulu yang diinstal"
+3. Kemudian buka folder "New Folder"
+4. Double Click icon yang bernama "SW_DVD5_Visual_Studio_Pro_2012_English_Core_MLF_X18-35900"
+5. Kalo sudah selesai Double Click icon yang bernama "SW_DVD9_SQL_Svr_Enterprise_Edtn_2012_English_MLF_X17-96957_32or64bit"
+6. kemudian kalo sudah keluar dari folder "New Folder"
+7. Kemudian double click icon yang bernama "^CRforVS_13_0_15" di folder "Ini dulu yang diinstal"
+
+Tahap - tahap penggunaan aplikasi :
+========================
+
+1. Buka folder "English Learning Application"
+2. Run Sql Server Managemen studio as administrator (Sql server ini bisa kamu search di start menu karean sudah kamu instal barusan atau ada di icon dekstop)
+3. kalo sudah kebuka aplikasinya klik kanan pada database, kemudian pilih "attach" nanti cari folder dimana folder "English Learning Application berada"
+4. Buka aplikasi English Learning Application (yang iconnya warnanya ungu)
+5. kemudian disebelah kanan ada "server explorer" itu kamu click lalu di "Data Connection" click kanan, lalu pilih "Add Connection"
+6. Kemudian akan muncul kotak dialog namanya "Add Connection"
+7. Kemudian "Server Name" isi "." aja
+8. Kemudian di "select or enter database name" pilih "ELAdb" yang tadi sudah kamu attach
+9. kemdian kalo sudah pencet / tekan tombol "F5" atau pilih tombol "Start" yang ada di toolbar

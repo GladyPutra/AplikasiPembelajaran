@@ -1,0 +1,64 @@
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\English Learning Application\bin\Debug\English Learning Application.exe.config
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\English Learning Application\bin\Debug\English Learning Application.exe
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\English Learning Application\bin\Debug\English Learning Application.pdb
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\English Learning Application\obj\Debug\English Learning Application.csprojResolveAssemblyReference.cache
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.FormBank.resources
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.FormLogin.resources
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.FormMaster.resources
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.FormUser.resources
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.UCAddQuestion.resources
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Properties.Resources.resources
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\English Learning Application\obj\Debug\English Learning Application.csproj.GenerateResource.Cache
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\English Learning Application\obj\Debug\English Learning Application.exe
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\English Learning Application\obj\Debug\English Learning Application.pdb
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.FormRun.resources
+D:\Tugas Kuliah\English Learning Application\English Learning Application\bin\Debug\English Learning Application.exe.config
+D:\Tugas Kuliah\English Learning Application\English Learning Application\bin\Debug\English Learning Application.exe
+D:\Tugas Kuliah\English Learning Application\English Learning Application\bin\Debug\English Learning Application.pdb
+D:\Tugas Kuliah\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.FormBank.resources
+D:\Tugas Kuliah\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.FormLogin.resources
+D:\Tugas Kuliah\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.FormMaster.resources
+D:\Tugas Kuliah\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.FormUser.resources
+D:\Tugas Kuliah\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.FormRun.resources
+D:\Tugas Kuliah\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.UCAddQuestion.resources
+D:\Tugas Kuliah\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.UC_Set_Students.resources
+D:\Tugas Kuliah\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Properties.Resources.resources
+D:\Tugas Kuliah\English Learning Application\English Learning Application\obj\Debug\English Learning Application.csproj.GenerateResource.Cache
+D:\Tugas Kuliah\English Learning Application\English Learning Application\obj\Debug\English Learning Application.exe
+D:\Tugas Kuliah\English Learning Application\English Learning Application\obj\Debug\English Learning Application.pdb
+D:\Tugas Kuliah\English Learning Application\English Learning Application\obj\Debug\English Learning Application.csprojResolveAssemblyReference.cache
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\bin\Debug\English Learning Application.exe.config
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\obj\Debug\English Learning Application.exe
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\obj\Debug\English Learning Application.pdb
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\bin\Debug\English Learning Application.exe
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\bin\Debug\English Learning Application.pdb
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.FormBank.resources
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.FormLogin.resources
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.FormMaster.resources
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.FormUser.resources
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.FormRun.resources
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.UCAddQuestion.resources
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.UC_Set_Students.resources
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Properties.Resources.resources
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\obj\Debug\English Learning Application.csproj.GenerateResource.Cache
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.FormQuis.resources
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.FormReport.resources
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\obj\Debug\English Learning Application.csprojResolveAssemblyReference.cache
+C:\Users\Glady Putra\Downloads\English Learning Application\English Learning Application\bin\Debug\English Learning Application.exe.config
+C:\Users\Glady Putra\Downloads\English Learning Application\English Learning Application\obj\Debug\English Learning Application.exe
+C:\Users\Glady Putra\Downloads\English Learning Application\English Learning Application\obj\Debug\English Learning Application.pdb
+C:\Users\Glady Putra\Downloads\English Learning Application\English Learning Application\bin\Debug\English Learning Application.exe
+C:\Users\Glady Putra\Downloads\English Learning Application\English Learning Application\bin\Debug\English Learning Application.pdb
+C:\Users\Glady Putra\Downloads\English Learning Application\English Learning Application\obj\Debug\English Learning Application.csprojResolveAssemblyReference.cache
+C:\Users\Glady Putra\Downloads\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.FormBank.resources
+C:\Users\Glady Putra\Downloads\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.FormLogin.resources
+C:\Users\Glady Putra\Downloads\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.FormMaster.resources
+C:\Users\Glady Putra\Downloads\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.FormQuis.resources
+C:\Users\Glady Putra\Downloads\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.FormReport.resources
+C:\Users\Glady Putra\Downloads\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.FormUser.resources
+C:\Users\Glady Putra\Downloads\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.FormRun.resources
+C:\Users\Glady Putra\Downloads\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.UCAddQuestion.resources
+C:\Users\Glady Putra\Downloads\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.UC_Set_Students.resources
+C:\Users\Glady Putra\Downloads\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Properties.Resources.resources
+C:\Users\Glady Putra\Downloads\English Learning Application\English Learning Application\obj\Debug\English Learning Application.csproj.GenerateResource.Cache
+D:\Tugas Kuliah\PROJECT\English Learning Application\English Learning Application\obj\Debug\English_Learning_Application.Boundary.FormChangePassword.resources
